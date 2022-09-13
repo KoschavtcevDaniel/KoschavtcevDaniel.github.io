@@ -1,0 +1,37 @@
+.body{
+    margin: 0;
+     color: #FF6400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+    font-style: italic;
+}
+.header{
+    width:100%;
+    background-color:#000000; ; 
+    padding: 10px; 
+    height:120px;
+   
+
+}
+.imagine{
+    float: left; 
+    margin: 0; 
+    width:100px; 
+    height:100px;
+    padding-right: 10px;
+}
+.header2{
+    max-width:800px; 
+    background-color:#000000; 
+    margin: 0 auto; 
+    margin-top:20px; 
+    padding:10px;
+    
+}
+.href{
+    text-decoration: none;
+    color:#FF6400;
+    margin: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
