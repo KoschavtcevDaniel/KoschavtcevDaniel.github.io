@@ -10,23 +10,26 @@
     background-color:#000000; ; 
     padding: 10px; 
     height:120px;
-   
+  
 
 }
 .imagine{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     float: left; 
     margin: 0; 
     width:100px; 
     height:100px;
     padding-right: 10px;
 }
-.header2{
+.nav{
     max-width:800px; 
     background-color:#000000; 
     margin: 0 auto; 
     margin-top:20px; 
     padding:10px;
-    
+    text-align: center;
 }
 .href{
     text-decoration: none;
@@ -34,4 +37,21 @@
     margin: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 30px;
+}
+
+.table{
+
+    color:#FF6400;
+    margin: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    border: 3px solid #000000;
+}
+.elemch{
+    border: solid #000000;
+    background-color: #06246F;
+}
+.elemnch{
+    border: solid #000000;
+    background-color: #114037;
 }
